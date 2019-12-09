@@ -37,6 +37,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>world-demo-test</applicationName>
 				<objectStoreV2>true</objectStoreV2>
+				
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
